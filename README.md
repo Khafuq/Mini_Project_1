@@ -5,18 +5,18 @@ Given a dataset containing information about students’ exam score, use Pandas 
 
 
 ## Exploring and Cleaning:
-v Missing values and duplicate rows 
-v Data types
-v Inconsistent Values
+1- Missing values and duplicate rows 
+2- Data types
+3- Inconsistent Values
 
 ## Statistics & Visualization:
-v Statistics of each columns
-v Visualizations of important columns 
-v Visualizations of related columns
+1- Statistics of each columns
+2- Visualizations of important columns 
+3- Visualizations of related columns
 
 ## Research Questions:
 vHow effective is the test preparation course (e.g. TestPrep, ParentEdu, etc.)?
 vWhat factors (features) affect test scores most?
-v What would be the best way to improve student scores on
+What would be the best way to improve student scores on
 each test?
-v What patterns and interactions in the data can you find?
+What patterns and interactions in the data can you find?
