@@ -10,8 +10,11 @@ Given a dataset containing information about students’ exam score, use Pandas 
 3- Inconsistent Values
 
 ## Statistics & Visualization:
+
 1- Statistics of each columns
+
 2- Visualizations of important columns 
+
 3- Visualizations of related columns
 
 ## Research Questions:
